@@ -1,0 +1,11 @@
+.text {
+  margin-top: -60vh;
+  margin-left: 50vh;
+  color: black;
+  position: absolute;
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  -webkit-text-stroke: 3px black;
+  -webkit-text-fill-color: transparent;
+}
